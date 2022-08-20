@@ -5,4 +5,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Dong-Jun99&layout=compact&theme=onedark&&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)      
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaehdwns99)](https://solved.ac/rlaehdwns99/)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Dong-Jun99&show_icons=true&theme=radical)  
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kim-Dong-Jun99&theme=radical&hide_border=true&fire=red&sideNums=red)
 </div>
