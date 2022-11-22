@@ -7,3 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-dong-jun99&show_icons=true&theme=apprentice&count_private=true)
 </div>
+
+<a href=#><img src="contributions.svg"></a>
+
