@@ -5,7 +5,9 @@
   
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kim-Dong-Jun99&theme=radical&hide_border=true&fire=red&sideNums=red)
 
-
+![DongjunKim's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kim-Dong-Jun99)
+  
+  
 </div>
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
