@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/aws ec2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/aws rds-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
