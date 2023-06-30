@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=black">
   <br/>
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/restdocs-85EA2D?style=for-the-badge&logo=restdocs&logoColor=black">
+
   <br/>
   <img src="https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
   <img src="https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=jpa&logoColor=black">
