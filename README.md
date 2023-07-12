@@ -1,10 +1,8 @@
-<div align='center'>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=DongJun%20Kim&fontSize=80&fontAlign=60)
+<div align='left'>
   
-# Tech Stack
+## 📚 Stack
 <br/>
-<div>
+<div algin = left>
   <img src="https://img.shields.io/badge/java-FF5A00?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br/>
@@ -47,9 +45,13 @@
 
 <br/>
 
+## ⚙️ [solved.ac](https://solved.ac/profile/rlaehdwns99)
+
 ![laigasus's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaehdwns99)
 
 <br/>
+
+## 📊 Github Stats
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kim-Dong-Jun99&theme=vue&hide_border=false&fire=red&sideNums=red)
 
