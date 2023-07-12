@@ -46,8 +46,8 @@
 </div>
 
 <br/>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaehdwns99)](https://solved.ac/rlaehdwns99/)
+
+![laigasus's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaehdwns99)
 
 <br/>
 
