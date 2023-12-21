@@ -39,7 +39,7 @@
 
 ## ⚙️ [solved.ac](https://solved.ac/profile/rlaehdwns99)
 
-![laigasus's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaehdwns99)
+<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=rlaehdwns99"/>
 
 <br/>
 
