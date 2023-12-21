@@ -45,11 +45,7 @@
 
 ## 📊 Github Stats
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kim-Dong-Jun99&theme=vue&hide_border=false&fire=red&sideNums=red)
-
-<br/>
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kim-Dong-Jun99&theme=vue" />
+[![dongjunkim99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Dong-Jun99&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
